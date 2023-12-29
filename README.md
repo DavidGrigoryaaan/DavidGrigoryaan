@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">About Me</h1>
+<h3 align="center">About Me</h1>
 
 ###
 
