@@ -1,25 +1,5 @@
-<h1 align="center">Hello!</h1>
+<h1 align="center">Hi 👋, I'm David Grigoryan</h1>
+<h3 align="center">A passionate web developer from Russia.</h3>
 
-###
-
-<p align="left">I'm David<br>A frontend Developer <br>🌎. Armenia<br>📪.  davidgrigoryaaan@gmail.com</p>
-
-###
-
-<h2 align="center">My Language and Tools</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-</div>
-
-###
+- 📫 How to reach me **Davidgrigoryaaan@gmail.com**
+- ⚡ Fun fact **I am introverted**
