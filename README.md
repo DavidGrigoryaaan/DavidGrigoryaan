@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm David Grigoryan</h1>
-<h3 align="center">A passionate web developer from Russia.</h3>
+### Hello there, I'm David 👋
 
-- 📫 How to reach me **Davidgrigoryaaan@gmail.com**
-- ⚡ Fun fact **I am introverted**
+#### I'm a Front-End Developer by day.
+
+- ⚙️ I use daily: `.html`, `.css`, `.js`
+- 📫 How to reach me: **davidgrigoryaaan@gmail.com**
